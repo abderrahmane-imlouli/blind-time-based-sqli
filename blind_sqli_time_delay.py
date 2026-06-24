@@ -2,7 +2,7 @@ import requests
 import string
 import time
 
-TARGET_URL = "https://exemple.com"
+TARGET_URL = "https://target-lab.example.com"
 CHARS = string.ascii_lowercase + string.digits
 PASSWORD_LENGTH = 20
 DELAY = 8  # seconds threshold to confirm TRUE
