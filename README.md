@@ -51,4 +51,4 @@ It should only be used in environments where testing is explicitly authorized, s
 
 ## License
 
-This project is released under the MIT License.
+This project is released under the MIT License — see the [LICENSE](LICENSE) file for details.
